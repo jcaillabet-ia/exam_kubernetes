@@ -12,4 +12,4 @@ spec:
      namespace: eval
      name: mysql-mysql-0
   hostPath:
-    path: "/home/ubuntu/exam_kubernetes/data"
+    path: "/home/ubuntu/eval/data"
